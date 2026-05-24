@@ -15,12 +15,7 @@
 
 **Student Personal Details** is a Windows Forms desktop application that demonstrates full **CRUD (Create, Read, Update, Delete)** functionality using C# connected to a Microsoft SQL Server Express database.
 
-Developed as an individual assignment for the **MIT 22033 Visual Programming** course at the **South Eastern University of Sri Lanka** (Academic Year 2021/2022, Semester II).
-
-- **Student:** K.D. Tharusha Iduwara
-- **Registration No:** SEU/IS/21/MIT/007
-- **Department:** Management and Information Technology
-- **Faculty:** Management and Commerce
+Developed as an individual assignment for the **MIT 22033 Visual Programming** course at the **South Eastern University of Sri Lanka** 
 
 ---
 
