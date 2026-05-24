@@ -1,0 +1,11 @@
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\bin\Debug\Student Personal Details.exe.config
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\bin\Debug\Student Personal Details.exe
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\bin\Debug\Student Personal Details.pdb
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student Personal Details.csproj.AssemblyReference.cache
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student_Personal_Details.Form1.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student_Personal_Details.Properties.Resources.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student Personal Details.csproj.GenerateResource.cache
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student Personal Details.csproj.CoreCompileInputs.cache
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student Personal Details.exe
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student Personal Details.pdb
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Student Personal Details\Student Personal Details\Student Personal Details\obj\Debug\Student Personal Details.exe.config
