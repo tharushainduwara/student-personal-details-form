@@ -15,7 +15,7 @@
 
 **Student Personal Details** is a Windows Forms desktop application that demonstrates full **CRUD (Create, Read, Update, Delete)** functionality using C# connected to a Microsoft SQL Server Express database.
 
-Developed as an individual assignment for the **MIT 22033 Visual Programming** course at the **South Eastern University of Sri Lanka** 
+Developed as an individual assignment for the **Visual Programming** subject of MIT at the **South Eastern University of Sri Lanka** 
 
 ---
 
